@@ -18,7 +18,7 @@
     font-size: 20px;
     font-weight: 400;
     background: #FD6E0A;
-    padding: 18px 35px;
+    padding: 18px 28px;
     border: 0;
     border-radius: 5px;
 }
@@ -210,7 +210,7 @@ main {
 }
 .resume-contaner{
     display: flex;
-    gap: 24px;
+    gap: 50px;
 }
 .education-tittle{
     margin-bottom: 30px;
