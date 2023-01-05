@@ -8,6 +8,9 @@
 .color {
     color: #FD6E0A;
 }
+.banner-btn{
+    display: flex;
+}
 
 .main-btn {
     color: #ffff;
